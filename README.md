@@ -1,4 +1,10 @@
 # FindTheOriginal
 
 ## Game Description
-Use the given limited resources to find the original enemy.
+Use the limited given resources to find the original enemy.
+
+## Game Engine
+Unity
+
+## Platform
+Windows, Android
