@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\magnifyCard.cs">
+    <Files>
+      <File FileName="Assets\Scripts\attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cardRim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\summonMinion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\castSpell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\magnifyCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\summonDarkChan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\healthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\countMinions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Minions\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
